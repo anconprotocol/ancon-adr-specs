@@ -1,2 +1,3 @@
-# XOPA
-XDV Organization Proposal Architectures
+# ANCON ADR
+
+- Architecture Specs
